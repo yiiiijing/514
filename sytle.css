@@ -1,0 +1,107 @@
+@charset "utf-8";
+.dog {
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	text-align: center;
+	height: auto;
+}
+header h1 {
+	text-align: center;
+	color: #C45255;
+	font-size: 91px;
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 100vh;
+	margin-top: -12px;
+	padding-top: 440px;
+	font-weight: 800;
+}
+nav a:link {
+	color: #DD787A;
+	text-decoration: none;
+}
+nav a:hover {
+	color: #F8C9CA;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.puppy {
+	height: 250px;
+	background-image: url(%E5%9C%96%E7%89%87/puppy.jpg);
+	border-radius: 24px;
+	background-position: center center;
+	background-size: contain;
+}
+.dog.col01 header .background {
+	background-position: center center;
+	background-size: cover;
+	background-image: url(%E5%9C%96%E7%89%87/love.jpg);
+	width: 100%;
+	height: 100vh;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+
+article h2 {
+	background-color: #F2CADF;
+	border-radius: 25px;
+	text-align: center;
+	color: #CC7AB6;
+}
+
+nav {
+	background-color: #FFEEEE;
+}
+.col01 article .img1 {
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.col01 article .img1:hover {
+	transform: scale(1.2);
+}
+div article .img2 {
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+div article .img2:hover {
+	transform: scale(1.2);
+}
+.box1 ol .img4:hover{
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.box1 ol .img4:hover{
+	transform: scale(1.2)
+}
+.box1 ol .img5 {
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.box1 article .map {
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+
+.box1 ol .img5:hover {
+	transform: scale(1.2)
+}
+
+ol div .img3:hover {
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+ol div .img3:hover {
+	transform: scale(1.05);
+}
+.box1 article .map:hover {
+	transform: scale(1.2);
+}
